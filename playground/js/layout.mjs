@@ -113,7 +113,7 @@ function initLayout() {
     }
 
     const languages = [
-        "Albanian", "Bokmal", "Czech", "Dutch", "Dutch Repeat", "English Repeat", "English þ",
+        "Albanian", "Bokmal", "Czech", "Danish", "Dutch", "Dutch Repeat", "English Repeat", "English þ",
         "English2", "Esperanto", "Finnish", "Finnish Repeat", "French", "French Qu", "German",
         "Hebrew", "Hungarian", "Indonesian", "Italian", "Korean", "Malay", "Mt Quotes", "Nynorsk", "Pinyin",
         "Pinyin AN", "Polish", "Portuguese", "Russian", "Spanish", "Swedish", "Swiss", "Toki Pona", "Tr Quotes",
