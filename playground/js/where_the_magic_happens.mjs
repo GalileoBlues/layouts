@@ -75,8 +75,8 @@ function analyzeLayout(layout, excludedKeys, languageData) {
 
     let fingerUsage = {
         0: getFingerUsage(fingers.finger0, languageData["characters"]),
-        1: getFingerUsage(fingers.finger1, languageData["characters"]),
-        2: getFingerUsage(fingers.finger2, languageData["characters"]),
+        2: getFingerUsage(fingers.finger1, languageData["characters"]),
+        1: getFingerUsage(fingers.finger2, languageData["characters"]),
         3: getFingerUsage(fingers.finger3, languageData["characters"]),
         6: getFingerUsage(fingers.finger6, languageData["characters"]),
         7: getFingerUsage(fingers.finger7, languageData["characters"]),
