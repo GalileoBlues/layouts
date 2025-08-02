@@ -117,7 +117,7 @@ function initLayout() {
         "English2", "Esperanto", "Finnish", "Finnish Repeat", "French", "French Qu", "German",
         "Hebrew", "Hungarian", "Indonesian", "Italian", "Korean", "Malay", "Mt Quotes", "Nynorsk", "Pinyin",
         "Pinyin AN", "Polish", "Portuguese", "Russian", "Spanish", "Swedish", "Swiss", "Toki Pona", "Tr Quotes",
-        "Ukranian", "Welsh", "Welsh Pure", "e200", "450k"
+        "Ukranian", "Vietnamese", "Welsh", "Welsh Pure", "e200", "450k"
     ];
 
     for (let i = 0; i < languages.length; ++i) {
